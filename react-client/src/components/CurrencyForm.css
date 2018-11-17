@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.centerAlign {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.customNav {
+  background-color: #018450 !important;
+}
+.title {
+  color: white !important;
+  font-weight: bold !important;
+  font-size: 3rem !important;
+}
